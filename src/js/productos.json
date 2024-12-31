@@ -1,0 +1,152 @@
+[
+    {
+      "id": "101",
+      "titulo": "Vinilo Artaud",
+      "imagen": "./public/img/vinilo/101.webp",
+      "categoria": {
+        "nombre": "Vinilo",
+        "id": "vinilo"
+      },
+      "precio": 79.90
+    },
+    {
+      "id": "102",
+      "titulo": "Vinilo Spinetta y sus Amigos",
+      "imagen": "./public/img/vinilo/102.webp",
+      "categoria": {
+        "nombre": "Vinilo",
+        "id": "vinilo"
+      },
+      "precio": 38.80
+    },
+    {
+      "id": "103",
+      "titulo": "Vinilo Almendra",
+      "imagen": "./public/img/vinilo/103.webp",
+      "categoria": {
+        "nombre": "Vinilo",
+        "id": "vinilo"
+      },
+      "precio": 45.49
+    },
+    {
+      "id": "204",
+      "titulo": "Cuerda para guitarra",
+      "imagen": "./public/img/instrumentos/204.jpg",
+      "categoria": {
+        "nombre": "Instrumentos",
+        "id": "instrumentos"
+      },
+      "precio": 29.90
+    },
+    {
+      "id": "205",
+      "titulo": "Cuerda para bajo",
+      "imagen": "./public/img/instrumentos/205.jpg",
+      "categoria": {
+        "nombre": "Instrumentos",
+        "id": "instrumentos"
+      },
+      "precio": 27.00
+    },
+    {
+      "id": "206",
+      "titulo": "Cuerda para violin",
+      "imagen": "./public/img/instrumentos/206.jpg",
+      "categoria": {
+        "nombre": "Instrumentos",
+        "id": "instrumentos"
+      },
+      "precio": 20.99
+    },
+    {
+      "id": "307",
+      "titulo": "Remera Artaud",
+      "imagen": "./public/img/indumentaria/307.webp",
+      "categoria": {
+        "nombre": "Indumentaria",
+        "id": "indumentaria"
+      },
+      "precio": 11.99
+    },
+    {
+      "id": "308",
+      "titulo": "Remera Almendra",
+      "imagen": "./public/img/indumentaria/308.webp",
+      "categoria": {
+        "nombre": "Indumentaria",
+        "id": "indumentaria"
+      },
+      "precio": 11.99
+    },
+    {
+      "id": "309",
+      "titulo": "Remera Invisible",
+      "imagen": "./public/img/indumentaria/309.webp",
+      "categoria": {
+        "nombre": "Indumentaria",
+        "id": "indumentaria"
+      },
+      "precio": 11.99
+    },
+    {
+      "id": "3010",
+      "titulo": "Remera de Bandas Eternas",
+      "imagen": "./public/img/indumentaria/3010.webp",
+      "categoria": {
+        "nombre": "Indumentaria",
+        "id": "indumentaria"
+      },
+      "precio": 11.99
+    },
+    {
+      "id": "2011",
+      "titulo": "Guitarra Electrica",
+      "imagen": "./public/img/instrumentos/2011.webp",
+      "categoria": {
+        "nombre": "Instrumentos",
+        "id": "instrumentos"
+      },
+      "precio": 209.90
+    },
+    {
+      "id": "2012",
+      "titulo": "Bajo",
+      "imagen": "./public/img/instrumentos/2012.jpg",
+      "categoria": {
+        "nombre": "Instrumentos",
+        "id": "instrumentos"
+      },
+      "precio": 189.99
+    },
+    {
+      "id": "1013",
+      "titulo": "Vinilo Pescado Rabioso 2",
+      "imagen": "./public/img/vinilo/1013.webp",
+      "categoria": {
+        "nombre": "Vinilo",
+        "id": "vinilo"
+      },
+      "precio": 67.80
+    },
+    {
+      "id": "1014",
+      "titulo": "Vinilo Durazno Sagrado",
+      "imagen": "./public/img/vinilo/1014.webp",
+      "categoria": {
+        "nombre": "Vinilo",
+        "id": "vinilo"
+      },
+      "precio": 55.00
+    },
+    {
+      "id": "3015",
+      "titulo": "Remera Spinetta Jade",
+      "imagen": "./public/img/indumentaria/3015.webp",
+      "categoria": {
+        "nombre": "Indumentaria",
+        "id": "indumentaria"
+      },
+      "precio": 11.99
+    }
+]
